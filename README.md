@@ -27,3 +27,5 @@ Kódování v UTF-8
 
 ### "genres"
 - Název žánru
+### "country"
+- Název země kde byl film natočen
