@@ -10,7 +10,7 @@ Kódování v UTF-8
 
 ## Příklad
 
-[Click here](movies.json)
+[Demo příklad](movies.json)
 
 
 ### "movies"
