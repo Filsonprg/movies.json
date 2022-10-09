@@ -1,0 +1,15 @@
+{
+    "movies": 
+    [
+        {
+            "name": "Spider-Man: Homecoming", 
+            "year": "2017", 
+            "genres": ["action", "sci-fi", "adventurous"] 
+        },
+        {
+            "name": "Pirates of the Caribbean: The Curse of the Black Pearl", 
+            "year": "2003", 
+            "genres": ["fantasy", "comedy"]
+        }
+    ]
+}
