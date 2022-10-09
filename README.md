@@ -2,7 +2,7 @@
 
 ## Name
 
-movies.JSON
+movies.json
 
 ## Specifikace
 
@@ -10,7 +10,7 @@ Kódování v UTF-8
 
 ## Příklad
 
-[Click here](movies.JSON)
+[Click here](movies.json)
 
 
 ### "movies"
